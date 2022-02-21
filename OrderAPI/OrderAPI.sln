@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAPI", "OrderAPI\OrderAPI.csproj", "{F72F1FDF-BD5C-4763-973D-28C27160716B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAPI.Tests", "OrderAPI.Tests\OrderAPI.Tests.csproj", "{1C905400-F56F-4414-8D80-4A2BD0D16608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72F1FDF-BD5C-4763-973D-28C27160716B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72F1FDF-BD5C-4763-973D-28C27160716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72F1FDF-BD5C-4763-973D-28C27160716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72F1FDF-BD5C-4763-973D-28C27160716B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C905400-F56F-4414-8D80-4A2BD0D16608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C905400-F56F-4414-8D80-4A2BD0D16608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C905400-F56F-4414-8D80-4A2BD0D16608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C905400-F56F-4414-8D80-4A2BD0D16608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F963B6C9-FE79-485B-843A-6B38799E2F04}
+	EndGlobalSection
+EndGlobal
